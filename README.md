@@ -5,3 +5,11 @@
 ## 📦 Installation  
 ```bash
 pip install git+https://github.com/aia007731-lab/karmic_transformation-.git
+
+from karmic import Soul, Kodzo  
+
+aia = Soul("Aizhan", "Aia")  
+print(aia.transform())  # "Aizhan → Aia ✨"  
+
+k = Kodzo()  
+print(k.debug())  # "I run away! 🏃‍♂️"  
