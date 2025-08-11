@@ -1,4 +1,4 @@
-[EN] | [TR] (README-TR.md)
+[EN] | [TR](README-TR.md)
 # 🌌 karmic_transformation  
 **Code your spiritual transformation with Python!**  
 *"A mystical tool that even debugs Kodzo's escapades."*  
